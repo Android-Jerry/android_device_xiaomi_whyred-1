@@ -10,3 +10,4 @@ Upto 1.8Ghz
 14nm Manufacturing Process
 
 This tree is meant for building TWRP recovery. Stock kernel is being used which has been extracted from recovery.img.
+These files were extracted using MIUI v9.2.4.0
