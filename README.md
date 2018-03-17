@@ -1,13 +1,23 @@
-# supreme-carnival
-This is a device tree for Redmi Note 5 Pro (Whyred).
-http://www.mi.com/in/redmi-note-5-pro/
+# Device Tree for Xiaomi Redmi Note 5 Pro (Whyred)
 
-https://www.qualcomm.com/products/qualcomm-snapdragon-636-mobile-platform
+## Spec Sheet
 
-CPU:
-8x Kryo 260 CPU
-Upto 1.8Ghz
-14nm Manufacturing Process
+| Feature                 | Specification                     |
+| :---------------------- | :-------------------------------- |
+| CPU                     | 8x Qualcomm® Kryo™ 260 CPU        |
+| Chipset                 | Qualcomm Snapdragon 636   	      |
+| GPU                     | Adreno 509                        |
+| Memory                  | 4/6 GB                            |
+| Shipped Android Version | 7.1.1                             |
+| Storage                 | 64 GB eMMC 5.1 flash storage      |
+| MicroSD                 | Up to 128 GB                      |
+| Battery                 | 4000 mAh (non-removable)          |
+| Dimensions              | 158.6 x 75.4 x 8.05 mm            |
+| Display                 | 2160x1080 pixels, 5.99 (~403 PPI) |
+| Rear Camera             | 12 MP + 5 MP, LED flash           |
+| Front Camera            | 20 MP                             |
+| Release Date            | February 2018                     |
 
-This tree is meant for building TWRP recovery. Stock kernel is being used which has been extracted from recovery.img.
-These files were extracted using MIUI v9.2.4.0
+## Device Picture
+
+![Redmi Note 5 Pro](http://i01.appmifile.com/webfile/globalimg/2018/02141/phone-black.jpg "Redmi Note 5 Pro")
